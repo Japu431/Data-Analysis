@@ -1,0 +1,5 @@
+C:\Users\Sennit\Documents\BI\git-data-analysis\ETL-Alura\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dacpac
+C:\Users\Sennit\Documents\BI\git-data-analysis\ETL-Alura\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dll
+C:\Users\Sennit\Documents\BI\git-data-analysis\ETL-Alura\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.pdb
+C:\Users\Sennit\Documents\BI\git-data-analysis\ETL-Alura\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.dll
+C:\Users\Sennit\Documents\BI\git-data-analysis\ETL-Alura\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.pdb
