@@ -11,8 +11,8 @@
   DTS:LocaleID="1046"
   DTS:ObjectName="CargaDimensoes"
   DTS:PackageType="5"
-  DTS:VersionBuild="7"
-  DTS:VersionGUID="{CE11D0D1-B65C-4991-AB66-4187E249867D}">
+  DTS:VersionBuild="9"
+  DTS:VersionGUID="{DAEDBB5B-F90A-4F0B-AB63-D89802321F5E}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -864,25 +864,25 @@ SELECT '003' AS CODIGO, 'Fab. do Nordeste' AS DESCRITOR</property>
         <NodeLayout
           Size="177,42"
           Id="Package\Criação da Dimensao Fabrica\Execução consulta SQL"
-          TopLeft="523,28.8333333333333" />
+          TopLeft="522.090909090909,27.9242424242424" />
         <NodeLayout
           Size="182,42"
           Id="Package\Criação da Dimensao Fabrica\Conversão de Dados"
           TopLeft="520.5,130.833333333333" />
         <EdgeLayout
           Id="Package\Criação da Dimensao Fabrica.Paths[Saída de Origem OLE DB]"
-          TopLeft="611.5,70.8333333333334">
+          TopLeft="611.045454545455,69.9242424242424">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,60"
+              EndConnector="0,60.9090909090909"
               Start="0,0"
-              End="0,52.5">
+              End="0,53.4090909090909">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,52.5" />
+                    End="0,53.4090909090909" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
